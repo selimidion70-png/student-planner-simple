@@ -80,7 +80,7 @@ export default function App() {
         <p className="eyebrow">MON PLANNING</p>
         <h1>Student Planner</h1>
         <p className="subtitle">
-          Un petit projet simple pour organiser sa journée.
+          Le projet est bien fait pour etudier en informatique.
         </p>
       </header>
 
