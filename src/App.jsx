@@ -168,7 +168,7 @@ export default function App() {
       </section>
 
       <footer>
-        Projet de démonstration pour pratiquer Git & GitHub
+        Projet entre git et gitub dans le future travaille en informatique
       </footer>
     </main>
   );
