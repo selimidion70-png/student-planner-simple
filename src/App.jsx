@@ -88,7 +88,7 @@ export default function App() {
         <div className="card-header">
           <div>
             <p className="label">AUJOURD'HUI</p>
-            <h2>Lundi</h2>
+            <h2><Mardi></Mardi></h2>
           </div>
           <span className="badge">
             {tasks.length} tâche{tasks.length > 1 ? "s" : ""}
