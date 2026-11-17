@@ -77,7 +77,7 @@ export default function App() {
   return (
     <main className="page">
       <header className="hero">
-        <p className="eyebrow">MON PLANNING</p>
+        <p className="eyebrow">Mon planning est bien ramplie de journe dans la semmaine</p>
         <h1>Student Planner</h1>
         <p className="subtitle">
           Le projet est bien fait pour etudier en informatique.
