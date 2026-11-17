@@ -88,7 +88,7 @@ export default function App() {
         <div className="card-header">
           <div>
             <p className="label">AUJOURD'HUI</p>
-            <h2><Mardi></Mardi></h2>
+            <h2>Mardi</h2>
           </div>
           <span className="badge">
             {tasks.length} tâche{tasks.length > 1 ? "s" : ""}
@@ -168,7 +168,7 @@ export default function App() {
       </section>
 
       <footer>
-        Projet entre git et gitub dans le future travaille en informatique
+        Projet entre git et gitub dans le future travaille en inoformatique
       </footer>
     </main>
   );
